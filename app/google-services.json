@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357352566211",
+    "firebase_url": "https://measure-user-across-web-and-ap.firebaseio.com",
+    "project_id": "measure-user-across-web-and-ap",
+    "storage_bucket": "measure-user-across-web-and-ap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357352566211:android:85765c5d318be968622176",
+        "android_client_info": {
+          "package_name": "org.centredeformationbiblique.pensezlavenir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357352566211-1oocgt70sskvjk06n3o7oiis0apkurmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwi-Uc12kbzTAPcJyTiCn2ncVjG2hblcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357352566211-1oocgt70sskvjk06n3o7oiis0apkurmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
